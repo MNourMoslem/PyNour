@@ -1,0 +1,1 @@
+from .loaded import MNIST
